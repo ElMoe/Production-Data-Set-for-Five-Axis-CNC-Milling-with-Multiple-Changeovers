@@ -14,5 +14,5 @@ The  following additional content can be found in the subfolders:
 - Feature description: List of features and description
 
 # Versions
-V1.0.0 Initial version (https://doi.org/10.5281/zenodo.14094886)
-V1.0.1 Fixed erratum (https://doi.org/10.5281/zenodo.15735480)
+- V1.0.0 Initial version (https://doi.org/10.5281/zenodo.14094886)
+- V1.0.1 Fixed erratum (https://doi.org/10.5281/zenodo.15735480)
