@@ -12,6 +12,7 @@ The  following additional content can be found in the subfolders:
 - Jupyter notebook: Example source code in Python, how to use the data set
 - Data irregularities: List of interruptions
 - Feature description: List of features and description
+- Tool change: Additional information on how tools are changed on the "Spinner U5-620"
 
 # Versions
 - V1.0.0 Initial version (https://doi.org/10.5281/zenodo.14094886)
