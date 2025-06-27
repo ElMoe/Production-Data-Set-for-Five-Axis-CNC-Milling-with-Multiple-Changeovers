@@ -3,11 +3,11 @@
 ## Linear axes (X, Y, Z)
 - 1x motor
 - 2x encoders (rotary encoder, glass scale) 
-## Rotary axes (B, C, Magazine)
+## Rotary axes (B, C, Tool magazine)
 - 1x motor
 - 1x encoder (rotary encoder)
 ## Spindle axis
 - 1x motor
 - 1x encoder (rotary encoder)
 
-For more details see axes_configuration.jpeg
+For more details see axes_configuration.jpeg and folder "Tool_change".
