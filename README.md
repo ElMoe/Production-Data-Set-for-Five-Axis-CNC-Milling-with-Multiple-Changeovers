@@ -15,7 +15,7 @@ The  following additional content can be found in the subfolders:
 - Tool change: Additional information on how tools are changed on the "Spinner U5-620"
 
 # Remark on file import and index in Python
-Imoprting the csv with:
+Importing the csv with:
 <pre> df = pd.read_csv(file_path,index_col=0) # Set the first column as the index </pre>
 will result into an index with three vectors indicating the day changes between:
 | Timestamp           | Index no. in csv | Vector no. |
